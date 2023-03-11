@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.container{
+    margin:60px;
+}
+
+.span1{
+    background-color: lightcoral;
+    margin-right: 20px;
+    padding: 50px 50px 50px 50px;
+    margin-top: 900px;
+}
+.span2{
+    background-color: red;
+    margin-left: 20px;
+    padding: 50px 50px 50px 50px;
+    margin-top: 900px;
+}
+.div{
+    background-color: darkblue;
+    margin-left: 20px;
+    padding: 50px 50px 50px 50px;
+    margin-top:700px;
+    margin-bottom: 900px;
+}
+h1{
+    color:violet;
+}
+.gato{
+
+    margin-left: 60px;
+    margin-top:60px;
+    border:2px solid black;
+    padding-top:50px;
+}
